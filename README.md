@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arthenol
-- 👀 I’m interested in becoming a developer and to fulfill my long life dream of a stable life. That's the goal, whatever it takes.
-- 🌱 I’m currently learning and focusing on "Java-script, HTML+CSS". (more languages will be added).
-- 💞️ I’m looking to collaborate on anything i can help out with. IF i have a piece of a puzzle, then you have a solution.
+- 👀 The goal is to become a full stack dev. A dev I can be proud of. Whatever it takes.
+- 🌱 What I’m currently honing and focusing on: "Javascript (Node.js), HTML+CSS, React, Angular, TypeScript, PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Rest, GraphQl, JSON, BASH / SHELL scripting, Docker, CI/CD concepts and pipelines, Azure"
+- 💞️ Feel free to reach out if you ever need help or simply want to collaborate on any type of project. IF i have a piece of a puzzle, then you have a solution.
 - 📫 How to reach me: arthenol.github@gmail.com
 
 <!---
